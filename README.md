@@ -1,6 +1,6 @@
 # simple-rest-api
 
-This simple server rest is implemented with codeigniter framework. This server rest serves to manage student data with CRUD
+This simple server rest is implemented with codeigniter framework. This rest server serves to manage student data with CRUD
 
 ## API
 
